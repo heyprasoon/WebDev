@@ -1,0 +1,16 @@
+{
+  "name": "lec33",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1_CricinfoExtracter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "excel4node": "^1.7.2",
+    "pdf-lib": "^1.16.0"
+  }
+}
